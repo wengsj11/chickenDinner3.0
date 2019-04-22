@@ -1,0 +1,5 @@
+nav: #cbcbcb;
+background-inner: #e4e4e4;
+
+backgroud:
+	#af7e99; to #a2799d; to #89729d; #7873a8; to #737aac;
